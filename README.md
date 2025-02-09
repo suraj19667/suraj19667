@@ -1,6 +1,6 @@
 <h1>🌈About Me <h1>
 <h1 align="center">Hi 👋, I'm Suraj Yadav</h1>
-<h3 align="center">Welcome to my GitHub! I'm a Java Full-Stack Developer student who loves turning ideas into reality through clean, efficient, and scalable code. I enjoy building dynamic web applications and exploring the latest technologies in Java, Spring Boot, and modern frontend frameworks.</h3>
+<h3 align="center">🙏🏻Welcome to my GitHub! 🔥I'm a Java Full-Stack Developer student who loves turning ideas into reality through clean, efficient, and scalable code.👨‍💻</h3>
 <img src="https://camo.githubusercontent.com/0e2953d98b21eda5a158939ea202c7c07b16b0dc0dc5c1e269826c29a01a974f/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966"  alt="Coding" width="200px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj19667&label=Profile%20views&color=0e75b6&style=flat" alt="suraj19667" /> </p>
 
