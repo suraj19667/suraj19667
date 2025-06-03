@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Programming,Logic codes,React**
 
-- 📫 How to reach me **sy083609@gmai.com**
+- 📫 How to reach me **surajyadav858a@gmail.com**
 
 
 ## 🌐 Socials:
