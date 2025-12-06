@@ -150,14 +150,6 @@ const suraj = {
   
 </div>
 
-<div align="center">
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj19667&layout=compact&hide_border=true&title_color=667EEA&text_color=c9d1d9&bg_color=0d1117&langs_count=6" />
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/pin/?username=suraj19667&repo=suraj19667&hide_border=true&title_color=667EEA&text_color=c9d1d9&bg_color=0d1117&icon_color=667EEA" />
-
-</div>
-
 <br>
 
 <div align="center">
