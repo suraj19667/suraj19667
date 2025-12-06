@@ -18,7 +18,11 @@
 
 <br>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
@@ -27,7 +31,7 @@ const suraj = {
     name: "Suraj Yadav",
     role: "Python Full Stack Developer",
     location: "🌍 India",
-    code: ["Python", "JavaScript", "C++",],
+    code: ["Python", "JavaScript", "C++"],
     technologies: {
         backend: ["Django", "Node.js"],
         frontend: ["React", "HTML5", "CSS3", "TailwindCSS"],
@@ -38,6 +42,17 @@ const suraj = {
     funFact: "I debug with console.log() and I'm proud of it! 😄"
 };
 ```
+
+</td>
+<td width="50%" valign="top">
+
+<img alt="Coding" width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br clear="both">
 
