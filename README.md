@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:667EEA&height=200&section=header&text=Suraj%20Yadav&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Python%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:667EEA&height=150&section=header&text=Suraj%20Yadav&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Python%20Full%20Stack%20Developer&descAlignY=52&descAlign=50" width="100%" />
 </div>
 
 <div align="center">
@@ -45,22 +45,6 @@ const suraj = {
 <br clear="both">
 
 ---
-
-<h2 align="center">🎯 What I'm Up To</h2>
-
-<div align="center">
-
-| 🔥 Current Focus | 💬 Ask Me About | 📫 Reach Me |
-|:---:|:---:|:---:|
-| Mastering Python Full Stack | Django, Flask, React | surajyadav858a@gmail.com |
-| Building Scalable Apps | Problem Solving & Algorithms | Open for Collaborations |
-| Learning New Technologies | System Design & Architecture | Freelance Projects |
-
-</div>
-
-<br>
-
----
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
@@ -81,60 +65,19 @@ const suraj = {
 <br>
 
 ---
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<h3>💻 Languages</h3>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-</td>
-<td align="center" width="25%">
-<h3>🎨 Frontend</h3>
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-</td>
-<td align="center" width="25%">
-<h3>⚙️ Backend</h3>
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-</td>
-<td align="center" width="25%">
-<h3>🗄️ Database</h3>
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<h3>🔧 Tools & Technologies</h3>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
 ---
 <h2 align="center">📊 GitHub Statistics</h2>
@@ -166,43 +109,15 @@ const suraj = {
 <br>
 
 ---
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suraj19667&theme=react-dark&hide_border=true&area=true" width="98%" alt="Contribution Graph"/>
-</div>
-
-<br>
-
----
-
-<h2 align="center">✍️ Random Dev Quote</h2>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it" alt="Random Dev Quote" />
-</div>
-
-<br>
-
----
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,18,20,24&height=2&section=footer" width="100%" />
-  
-  <br><br>
-  
-  <h3>💙 Thanks for visiting! Let's connect and build something amazing together!</h3>
+  <h3>💙 Thanks for visiting!</h3>
   
   <img src="https://visitcount.itsvg.in/api?id=suraj19667&label=Profile%20Views&color=12&icon=5&pretty=true" alt="Profile Views" />
   
   <br><br>
   
-  <h4>⭐ If you like my projects, give them a star! ⭐</h4>
-  
-  <br>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer&fontSize=20&fontColor=fff&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=80&section=footer" width="100%" />
   
 </div>
 
