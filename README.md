@@ -13,9 +13,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=suraj19667&label=Profile%20Views&color=667EEA&style=for-the-badge&labelColor=1c1917" alt="Profile views" />
-  <a href="https://twitter.com/sy083609">
-    <img src="https://img.shields.io/twitter/follow/sy083609?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=1c1917&logoColor=white" alt="Twitter" />
-  </a>
   <img src="https://img.shields.io/github/followers/suraj19667?label=Followers&style=for-the-badge&color=667EEA&labelColor=1c1917" alt="GitHub Followers" />
 </p>
 
