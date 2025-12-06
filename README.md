@@ -106,7 +106,6 @@ const suraj = {
 
 <div align="center">
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=suraj19667&show_icons=true&count_private=true&hide_border=true&title_color=667EEA&icon_color=667EEA&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="Suraj Yadav github stats" /> 
   
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=suraj19667&theme=transparent&hide_border=true&stroke=667EEA&ring=667EEA&fire=FF6C37&currStreakLabel=667EEA&sideLabels=c9d1d9&dates=c9d1d9" alt="Suraj Yadav streak stats"/>
   
