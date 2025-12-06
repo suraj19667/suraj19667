@@ -19,35 +19,45 @@
 
 <br>
 
+---
+
 <div align="center">
 
-<table>
+<table border="0">
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
+<h3 align="left"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> About Me</h3>
 
-```typescript
+```javascript
 const suraj = {
     name: "Suraj Yadav",
     role: "Python Full Stack Developer",
     location: "🌍 India",
-    code: ["Python", "JavaScript", "C++"],
-    technologies: {
+    
+    languages: ["Python", "JavaScript", "C++"],
+    
+    expertise: {
         backend: ["Django", "Node.js"],
         frontend: ["React", "HTML5", "CSS3", "TailwindCSS"],
         databases: ["MySQL", "MongoDB"],
         tools: ["Git", "GitHub", "VS Code", "Docker"]
     },
+    
     currentFocus: "Building scalable full-stack applications",
-    funFact: "I debug with console.log() and I'm proud of it! 😄"
+    funFact: "I debug with console.log() 😄"
 };
 ```
 
 </td>
-<td width="50%" height="130">
+<td width="45%" valign="top" align="center">
 
-<img alt="Coding" width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img alt="Coding" width="90%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+<br><br>
+
+**💼 Open for opportunities**  
+**🚀 Let's build something amazing!**
 
 </td>
 </tr>
@@ -55,7 +65,7 @@ const suraj = {
 
 </div>
 
-<br clear="both">
+<br>
 
 ---
 <h2 align="center">🌐 Connect With Me</h2>
