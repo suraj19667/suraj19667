@@ -144,9 +144,9 @@ const suraj = {
 
 <div align="center">
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=suraj19667&show_icons=true&count_private=true&hide_border=true&title_color=667EEA&icon_color=667EEA&text_color=c9d1d9&bg_color=0d1117" alt="Suraj Yadav github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=suraj19667&show_icons=true&count_private=true&hide_border=true&title_color=667EEA&icon_color=667EEA&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="Suraj Yadav github stats" /> 
   
-  <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=suraj19667&theme=dark&hide_border=true&background=0D1117&stroke=667EEA&ring=667EEA&fire=FF6C37&currStreakLabel=667EEA" alt="Suraj Yadav streak stats"/>
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=suraj19667&theme=transparent&hide_border=true&stroke=667EEA&ring=667EEA&fire=FF6C37&currStreakLabel=667EEA&sideLabels=c9d1d9&dates=c9d1d9" alt="Suraj Yadav streak stats"/>
   
 </div>
 
@@ -161,7 +161,7 @@ const suraj = {
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suraj19667&theme=github_dark&hide_border=true" alt="Suraj's GitHub Contribution" width="98%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suraj19667&theme=radical" alt="Suraj's GitHub Contribution" width="98%"/>
 </div>
 
 <br>
@@ -171,7 +171,7 @@ const suraj = {
 <h2 align="center">🏆 GitHub Achievements</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suraj19667&theme=algolia&no-frame=true&no-bg=false&margin-w=15&margin-h=15&row=1&column=7" alt="GitHub Trophies" width="98%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=suraj19667&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="98%" />
 </div>
 
 <br>
@@ -181,7 +181,7 @@ const suraj = {
 <h2 align="center">📈 Contribution Graph</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suraj19667&bg_color=0d1117&color=667EEA&line=667EEA&point=FF6C37&area=true&hide_border=true&custom_title=Contribution%20Activity" width="98%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suraj19667&theme=react-dark&hide_border=true&area=true" width="98%" alt="Contribution Graph"/>
 </div>
 
 <br>
