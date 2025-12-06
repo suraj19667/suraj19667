@@ -135,11 +135,13 @@ const suraj = {
   
   <h3>💙 Thanks for visiting!</h3>
   
-  <img src="https://visitcount.itsvg.in/api?id=suraj19667&label=Profile%20Views&color=12&icon=5&pretty=true" alt="Profile Views" />
+  <br>
+  
+  ![](https://komarev.com/ghpvc/?username=suraj19667&color=667EEA&style=flat-square)
   
   <br><br>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=80&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,100:00D9FF&height=100&section=footer" width="100%" />
   
 </div>
 
