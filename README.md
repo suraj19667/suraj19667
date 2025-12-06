@@ -21,7 +21,7 @@
 
 <br>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
@@ -144,17 +144,17 @@ const suraj = {
 
 <div align="center">
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=suraj19667&show_icons=true&count_private=true&hide_border=true&title_color=667EEA&icon_color=667EEA&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="Suraj Yadav github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=suraj19667&show_icons=true&count_private=true&hide_border=true&title_color=667EEA&icon_color=667EEA&text_color=c9d1d9&bg_color=0d1117" alt="Suraj Yadav github stats" /> 
   
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=suraj19667&theme=dark&hide_border=true&background=0D1117&stroke=667EEA&ring=667EEA&fire=FF6C37&currStreakLabel=667EEA&border_radius=10" alt="Suraj Yadav streak stats"/>
+  <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=suraj19667&theme=dark&hide_border=true&background=0D1117&stroke=667EEA&ring=667EEA&fire=FF6C37&currStreakLabel=667EEA" alt="Suraj Yadav streak stats"/>
   
 </div>
 
 <div align="center">
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj19667&layout=compact&hide_border=true&title_color=667EEA&text_color=c9d1d9&bg_color=0d1117&border_radius=10&langs_count=8&hide=jupyter%20notebook" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj19667&layout=compact&hide_border=true&title_color=667EEA&text_color=c9d1d9&bg_color=0d1117&langs_count=6" />
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/wakatime?username=suraj19667&hide_border=true&title_color=667EEA&text_color=c9d1d9&bg_color=0d1117&border_radius=10&layout=compact&custom_title=Coding%20Activity" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/pin/?username=suraj19667&repo=suraj19667&hide_border=true&title_color=667EEA&text_color=c9d1d9&bg_color=0d1117&icon_color=667EEA" />
 
 </div>
 
