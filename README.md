@@ -30,11 +30,11 @@ const suraj = {
     name: "Suraj Yadav",
     role: "Python Full Stack Developer",
     location: "🌍 India",
-    code: ["Python", "JavaScript", "C++", "PHP"],
+    code: ["Python", "JavaScript", "C++",],
     technologies: {
-        backend: ["Django", "Flask", "Node.js"],
+        backend: ["Django", "Node.js"],
         frontend: ["React", "HTML5", "CSS3", "TailwindCSS"],
-        databases: ["MySQL", "PostgreSQL", "MongoDB"],
+        databases: ["MySQL", "MongoDB"],
         tools: ["Git", "GitHub", "VS Code", "Docker"]
     },
     currentFocus: "Building scalable full-stack applications",
@@ -74,7 +74,6 @@ const suraj = {
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
 ### Frontend
@@ -89,7 +88,7 @@ const suraj = {
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 ### Databases & Tools
