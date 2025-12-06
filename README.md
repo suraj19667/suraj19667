@@ -4,8 +4,9 @@
 
 <div align="center">
   
-  <!-- Animated Typing Effect -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+%F0%9F%91%8B+Welcome+to+my+GitHub+Profile!;Building+Scalable+Web+Applications+%F0%9F%9A%80;Django+%7C+React.js+%7C+Python+%E2%9A%A1" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=80&lines=Hi+%F0%9F%91%8B+Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+%7C+Python+%7C+Django+%7C+React;Building+Scalable+Web+Applications+%F0%9F%9A%80;Let's+Build+Something+Amazing+Together!+%E2%9C%A8" alt="Typing SVG" />
+  </a>
   
 </div>
 
@@ -44,7 +45,7 @@ const suraj = {
 ```
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" height="130">
 
 <img alt="Coding" width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
