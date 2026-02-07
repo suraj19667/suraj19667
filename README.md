@@ -123,6 +123,12 @@ const suraj = {
 </p>
 
 </div>
+## 🚀 Featured Projects  
+
+| Project | Description | Live | Code |
+|--------|------------|------|------|
+| Doctor Appoinment Booking (React + TalwinCSS + MongoDB) | [Live]((https://health-bridge-flax.vercel.app/)) | [GitHub]((https://github.com/suraj19667/Health-Bridge)) |
+
 
 ---
 <h2 align="center">📊 GitHub Statistics</h2>
